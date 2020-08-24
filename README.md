@@ -5,11 +5,11 @@
 
 ### Hi there 👋, welcome to my github page!
 
-I'm Nina and I'm a Android Developer working mostly with Kotlin at TruckPad.
+I'm a Android Developer working mostly with Kotlin at TruckPad.
 
 - I ❤️ to build Android apps and learning new stuff.
 - 🌱 I'm currently learning Android unit tests.
-- I was a journalist in my previous life, but I also built websites in WordPress.
+- I was a journalist in my previous life, but I also built websites in WordPress for small companies.
 - ☕ I started Android studies with Java.
 
 Check some of my personal projects below!
