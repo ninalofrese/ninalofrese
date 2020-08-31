@@ -8,7 +8,7 @@
 I'm a Android Developer working mostly with Kotlin at TruckPad.
 
 - I ❤️ to build Android apps and learning new stuff.
-- 🌱 I'm currently learning Android unit tests.
+- 🌱 I'm currently learning Android unit tests and TDD.
 - I was a journalist in my previous life, but I also built websites in WordPress for small companies.
 - ☕ I started Android studies with Java, but there are rumours that it all started with ASP 12 years ago, but I have no memories of it.
 
