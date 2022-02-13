@@ -8,7 +8,7 @@
 I'm an Android Developer working mostly with Kotlin at TruckPad.
 
 - I ❤️ to build Android apps and learning new stuff
-- 🎓 Information Technology Student at [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
+- 🎓 Studying Information Technology at [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
 - 🌐 I was a journalist in my previous life, but I also built websites in WordPress for small companies
 - ☕ I began learning code with Java, but it all started with ASP 12 years ago
 - ⚡ Nature lover @ [Mundo Logout](https://mundologout.com.br/)
