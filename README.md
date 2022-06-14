@@ -4,7 +4,7 @@
 
 ### Hi there 👋, welcome to my github page!
 
-I'm an Android Developer working mostly with Kotlin at TruckPad.
+I'm an Android Engineer working mostly with Accessibility at Delivery Hero.
 
 - I ❤️ to build Android apps and learning new stuff
 - 🎓 Studying Information Technology at [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
