@@ -7,7 +7,6 @@
 I'm an Android Engineer working until recently with Accessibility at Delivery Hero.
 
 - I ❤️ to build Android apps and learn new stuff
-- 🎓 Studying Information Technology at [Univesp](https://univesp.br/cursos/bacharel-em-tecnologia-da-informacao)
 - 🌐 I was a journalist in my previous life, but I also built websites in WordPress for small companies
 - ☕ I began learning code with Java, but it all started with ASP 12 years ago
 - ⚡ Travel 🧳, Metal 🤘 & Nature 🌅 lover
