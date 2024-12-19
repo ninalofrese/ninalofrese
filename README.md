@@ -9,7 +9,7 @@ I'm an Android Engineer working until recently with Accessibility at Delivery He
 - I ❤️ to build Android apps and learn new stuff
 - Focusing on making apps more accessible
 - 🌐 I was a journalist in my previous life, but I also built websites in WordPress for small companies
-- ☕ I began learning code with Java, but it all started with ASP 12 years ago
-- ⚡ Travel 🧳, Metal 🤘, and Dog & Nature lover 🌅
+- ☕ I started learning code with Java, but my first "Hello World" was with ASP 12 years ago
+- ⚡ Travel 🌎, Metal 🤘, and Dog & Nature lover 🌅
 
 Check out some of my personal projects below!
