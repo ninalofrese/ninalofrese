@@ -4,7 +4,7 @@
 
 ### Hi there 👋, welcome to my GitHub page!
 
-I'm an Android Engineer working until recently with Accessibility at Delivery Hero.
+I'm an Android Engineer working at Qonto.
 
 - I ❤️ to build Android apps and learn new stuff
 - Focusing on making apps more accessible
